@@ -1,0 +1,3 @@
+Comprar cables|2
+Estudiar punteros|3
+Refactorizar parser|1
